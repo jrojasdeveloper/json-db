@@ -5,21 +5,21 @@
       "title":"React.js desde Cero",
       "image":"https://images.pexels.com/photos/4679168/pexels-photo-4679168.jpeg",
       "precio": 20,
-      "profesor":"Jesus Rojas",
+      "profesor":"Jesus Rojas"
     }, 
     {
         "id": 2,
         "title":"C# desde Cero",
         "image":"https://images.pexels.com/photos/2602451/pexels-photo-2602451.jpeg",
         "precio": 30,
-        "profesor":"Juan Rojas",
+        "profesor":"Juan Rojas"
     }, 
     {
         "id": 3,
         "title":"HTML desde cero",
         "image":"https://images.pexels.com/photos/2127969/pexels-photo-2127969.jpeg",
         "precio": 15,
-        "profesor":"Kari Sorjonen",
+        "profesor":"Kari Sorjonen"
   
     },
     {
@@ -27,7 +27,7 @@
         "title":"HTML Avanzado",
         "image":"https://images.pexels.com/photos/2127969/pexels-photo-2127969.jpeg",
         "precio": 32,
-        "profesor":"Kari Sorjonen",
+        "profesor":"Kari Sorjonen"
 
     }
   ]
